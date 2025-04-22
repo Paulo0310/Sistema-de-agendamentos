@@ -1,0 +1,58 @@
+{
+    "clinica": {
+      "exames": [
+        {
+          "nome": "Exame de Sangue",
+          "descricao": "Análise completa para avaliação de saúde geral."
+        },
+        {
+          "nome": "Raio-X",
+          "descricao": "Imagem de estruturas internas para diagnóstico rápido."
+        },
+        {
+          "nome": "Eletrocardiograma (ECG)",
+          "descricao": "Avaliação da atividade elétrica do coração."
+        },
+        {
+          "nome": "Ultrassonografia",
+          "descricao": "Imagem dos órgãos internos em tempo real."
+        }
+      ],
+      "medicina": [
+        {
+          "nome": "Clínico Geral",
+          "descricao": "Atendimento inicial e encaminhamento para especialidades."
+        },
+        {
+          "nome": "Pediatria",
+          "descricao": "Cuidados médicos para crianças e adolescentes."
+        },
+        {
+          "nome": "Ginecologia",
+          "descricao": "Saúde da mulher, exames preventivos e acompanhamento."
+        },
+        {
+          "nome": "Dermatologia",
+          "descricao": "Diagnóstico e tratamento de doenças da pele."
+        }
+      ],
+      "odontologia": [
+        {
+          "nome": "Limpeza Dentária",
+          "descricao": "Higienização profissional para prevenção de cáries e gengivite."
+        },
+        {
+          "nome": "Clareamento Dental",
+          "descricao": "Tratamento estético para dentes mais brancos."
+        },
+        {
+          "nome": "Tratamento de Canal",
+          "descricao": "Procedimento para eliminar infecções dentro do dente."
+        },
+        {
+          "nome": "Aparelho Ortodôntico",
+          "descricao": "Correção do alinhamento dos dentes e mordida."
+        }
+      ]
+    }
+  }

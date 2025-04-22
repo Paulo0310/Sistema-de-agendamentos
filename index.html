@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de agendamentos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+        
+            <span class="left-side">
+                <li>
+                    <img src="assets/teste-icon.png" alt="" class="icon">
+                    Exames</li>
+                <li>
+                    <img src="assets/dente-icon.png" alt="" class="icon">
+                    Odontologia</li>
+
+                <li>
+                    <img src="assets/medico-icon.png" alt="" class="icon">
+                    Medicina</li>
+            </span>
+
+            <li onclick="openModal">Agendar</li>
+        </nav>
+
+    </header>
+    <section class="hero">
+        <h1>Clínica Medica</h1>
+        <p>Agilize seu atendimento</p>
+       <button id="open-modal" onclick="openModal">Agende uma consulta agora!</button>
+    </section>
+
+    <div class="overlay" id="modal-form">
+
+        <div class="modal-form">
+            <button id="close-modal">
+                <img src="assets/close-icon.png" alt="" class="icon-modal">
+            </button>
+            <input type="text" placeholder="Nome Completo">
+            <input type="number" placeholder="CPF">
+            <input type="month">
+            <input type="date">
+            <label>
+                <input type="checkbox"> Aceitar Termos de Uso
+               
+            </label>
+            <input type="submit">
+        </div>
+    </div>
+
+    <!-- <main class="container-services">
+
+        <div class="search-bar">
+            <input type="search"
+             class="bar"
+            placeholder="Pesquisar...">
+            <button class="search"><img src="assets/lupa-icon.png" alt="" class="icon-bar"></button>
+        </div>
+
+    <div class="container-exames">
+
+        <span>
+            <img src="" alt="Imagem inlustrativa">
+            <H3></H3>
+        </span>
+
+    </div>
+   
+        <div class="container-odonto">
+
+            <span>
+                <img src="" alt="Imagem inlustrativa">
+                <H3></H3>
+            </span>
+
+        </div>
+
+        <div class="container-medicina">
+
+            <span>
+                <img src="" alt="Imagem inlustrativa">
+                <H3></H3>
+            </span>
+
+        </div>
+    </main> -->
+    <script src="script.js"></script>
+</body>
+<footer>
+    <p> &copy; Todos os direitos reservados</p>
+</footer>
+
+</html>
