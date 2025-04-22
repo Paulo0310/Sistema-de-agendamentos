@@ -18,6 +18,7 @@ Este é um sistema simples de **agendamento de consultas e exames médicos**, de
 - Modal interativo para preenchimento dos dados do paciente.
 - Validação de campos básicos .
 - Integração com banco de dados.
+  
 🚀 Como rodar o projeto
 
 1. Clone este repositório
