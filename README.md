@@ -7,7 +7,7 @@ Este é um sistema simples de **agendamento de consultas e exames médicos**, de
 - HTML5
 - CSS3
 - JavaScript (puro)
-- Banco de Dados (MySQL, PostgreSQL ou outro à sua escolha)
+- Banco de Dados (MySQL)
 
 ## ✨ Funcionalidades
 
