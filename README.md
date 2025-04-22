@@ -19,7 +19,7 @@ Este é um sistema simples de **agendamento de consultas e exames médicos**, de
 - Validação de campos básicos .
 - Integração com banco de dados.
   
-##🚀 Como rodar o projeto
+## 🚀 Como rodar o projeto
 
 1. Clone este repositório
 2. Abra o `index.html` no seu navegador
